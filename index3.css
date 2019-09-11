@@ -12,7 +12,8 @@ body{
 .logo{
 	float: left;
 	position: absolute;
-	top: 1%;
+	top: 6%;
+    right: 84%;
 	z-index: 9999;
 	width: 10%;
 	height: auto;
